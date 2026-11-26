@@ -1,7 +1,6 @@
-
 venv/
 __pycache__/
 *.pyc
-*.pyo
 .idea/
 .vscode/
+working_backp/
